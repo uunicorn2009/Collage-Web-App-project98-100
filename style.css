@@ -1,0 +1,30 @@
+.copy_right_fosster{
+    position: fixed;
+    bottom: 0;
+width: 100%;
+text-align: center;
+}
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+.img
+{
+    width: 100px;
+    border-radius: 100px;
+    padding: 100px;
+    box-shadow: 0 6px 8px 0 rgba(2,2,2,0.2);
+}
+#textbox
+{
+    width: 300px;
+}
+img:hover{
+    border-radius: 140px;
+}
